@@ -1,4 +1,4 @@
-🇭🇺 Magyar útmutató
+# 🇭🇺 Magyar útmutató
 # ✨ EdeT – EvolutionX Dashboard Editor Tool ✨
 
 ![EdeT főképernyő](.github/EdeT.jpg)
@@ -68,7 +68,7 @@ Segítségével könnyedén szerkesztheted a dashboard menüit, beállításait,
 Ha tetszik, támogasd a fejlesztést egy kávéval, mielőtt a gépek fellázadnak! 😳☕
 
 
-🇬🇧 English version
+# 🇬🇧 English version
 # ✨ EdeT – EvolutionX Dashboard Editor Tool ✨
 
 ![EdeT EvoX menu editor](.github/EdeT.jpg)
