@@ -132,15 +132,6 @@ It lets you easily customize dashboard menus, settings, and all important Evox s
 
 ---
 
-## 🤖 Robot Uprising Support Poem
-
-> Saved your file, the code is tight.  
-> But without support, machines may bite!  
-> A coffee keeps the robots tame,  
-> Or endless updates play their game! 🤖
-
----
-
 ## 🎉 Thank you for trying EdeT!
 
 If you like it, please support the project before the machines rise up! 😳☕
